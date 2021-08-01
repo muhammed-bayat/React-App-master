@@ -1,0 +1,18 @@
+.sayHello {
+  height: 300px;
+  width: 300px;
+  background: white;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.App {
+  min-height: 100vh;
+  background: steelblue;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
